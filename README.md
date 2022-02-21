@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karim-maw
 - 👀 I’m interested in programming and investing
 - 🌱 I’m currently learning programing and investing
-- 💞️ I’m looking to collaborate on some projects
+- 💞️ I’m looking to collaborate on some projects with flutter
 - 📫 How to reach me karimmawlawi96@gmail.com
 
 <!---
